@@ -10,3 +10,11 @@ TAURUS (April 20-May 20)
 Today gifts you with quick wit. Decisions made today will be wise ones. Much is expected of you. It's time to get organized. Separate family needs from career responsibilities. A new challenge appeals to you. Tonight: Honour an important invitation that involves many others.
 
 [[food]]
+
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Portrait%2C_Whitby_Gothic_Weekend%2C_2013.jpg/200px-Portrait%2C_Whitby_Gothic_Weekend%2C_2013.jpg>](test image)
+
+
+[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
+
+[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
